@@ -1,0 +1,198 @@
+--2016-01-14 02:46:03--  http://last/
+Resolving last (last)... 198.105.254.228, 198.105.244.228
+Connecting to last (last)|198.105.254.228|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `index.html.1'
+
+
+
+2016-01-14 02:46:03 (3.44 MB/s) - `index.html.1' saved [310]
+
+--2016-01-14 02:46:03--  ftp://login/
+           => `.listing'
+Resolving login (login)... 198.105.254.228, 198.105.244.228
+Connecting to login (login)|198.105.254.228|:21... connected.
+Logging in as anonymous ... 
+Error in server response, closing control connection.
+Retrying.
+
+--2016-01-14 02:47:19--  ftp://login/
+  (try: 2) => `.listing'
+Connecting to login (login)|198.105.254.228|:21... connected.
+Logging in as anonymous ... 
+Error in server response, closing control connection.
+Retrying.
+
+--2016-01-14 02:48:36--  ftp://login/
+  (try: 3) => `.listing'
+Connecting to login (login)|198.105.254.228|:21... connected.
+Logging in as anonymous ... 
+Error in server response, closing control connection.
+Retrying.
+
+--2016-01-14 02:49:54--  ftp://login/
+  (try: 4) => `.listing'
+Connecting to login (login)|198.105.254.228|:21... connected.
+Logging in as anonymous ... 
+Error in server response, closing control connection.
+Retrying.
+
+--2016-01-14 02:51:13--  ftp://login/
+  (try: 5) => `.listing'
+Connecting to login (login)|198.105.254.228|:21... connected.
+Logging in as anonymous ... 
+Error in server response, closing control connection.
+Retrying.
+
+--2016-01-14 02:52:33--  ftp://login/
+  (try: 6) => `.listing'
+Connecting to login (login)|198.105.254.228|:21... connected.
+Logging in as anonymous ... 
+Error in server response, closing control connection.
+Retrying.
+
+--2016-01-14 02:53:54--  ftp://login/
+  (try: 7) => `.listing'
+Connecting to login (login)|198.105.254.228|:21... connected.
+Logging in as anonymous ... 
+Error in server response, closing control connection.
+Retrying.
+
+--2016-01-14 02:55:16--  ftp://login/
+  (try: 8) => `.listing'
+Connecting to login (login)|198.105.254.228|:21... connected.
+Logging in as anonymous ... 
+Error in server response, closing control connection.
+Retrying.
+
+--2016-01-14 02:56:39--  ftp://login/
+  (try: 9) => `.listing'
+Connecting to login (login)|198.105.254.228|:21... connected.
+Logging in as anonymous ... 
+Error in server response, closing control connection.
+Retrying.
+
+--2016-01-14 02:58:03--  ftp://login/
+  (try:10) => `.listing'
+Connecting to login (login)|198.105.254.228|:21... connected.
+Logging in as anonymous ... 
+Error in server response, closing control connection.
+Retrying.
+
+--2016-01-14 02:59:29--  ftp://login/
+  (try:11) => `.listing'
+Connecting to login (login)|198.105.254.228|:21... connected.
+Logging in as anonymous ... 
+Error in server response, closing control connection.
+Retrying.
+
+--2016-01-14 03:00:57--  ftp://login/
+  (try:12) => `.listing'
+Connecting to login (login)|198.105.254.228|:21... connected.
+Logging in as anonymous ... 
+Error in server response, closing control connection.
+Retrying.
+
+--2016-01-14 03:02:22--  ftp://login/
+  (try:13) => `.listing'
+Connecting to login (login)|198.105.254.228|:21... connected.
+Logging in as anonymous ... 
+Error in server response, closing control connection.
+Retrying.
+
+--2016-01-14 03:03:47--  ftp://login/
+  (try:14) => `.listing'
+Connecting to login (login)|198.105.254.228|:21... connected.
+Logging in as anonymous ... 
+Error in server response, closing control connection.
+Retrying.
+
+--2016-01-14 03:05:12--  ftp://login/
+  (try:15) => `.listing'
+Connecting to login (login)|198.105.254.228|:21... connected.
+Logging in as anonymous ... 
+Error in server response, closing control connection.
+Retrying.
+
+--2016-01-14 03:06:37--  ftp://login/
+  (try:16) => `.listing'
+Connecting to login (login)|198.105.254.228|:21... connected.
+Logging in as anonymous ... 
+Error in server response, closing control connection.
+Retrying.
+
+--2016-01-14 03:08:02--  ftp://login/
+  (try:17) => `.listing'
+Connecting to login (login)|198.105.254.228|:21... connected.
+Logging in as anonymous ... 
+Error in server response, closing control connection.
+Retrying.
+
+--2016-01-14 03:09:27--  ftp://login/
+  (try:18) => `.listing'
+Connecting to login (login)|198.105.254.228|:21... connected.
+Logging in as anonymous ... 
+Error in server response, closing control connection.
+Retrying.
+
+--2016-01-14 03:10:52--  ftp://login/
+  (try:19) => `.listing'
+Connecting to login (login)|198.105.254.228|:21... connected.
+Logging in as anonymous ... 
+Error in server response, closing control connection.
+Retrying.
+
+--2016-01-14 03:12:17--  ftp://login/
+  (try:20) => `.listing'
+Connecting to login (login)|198.105.254.228|:21... connected.
+Logging in as anonymous ... 
+Error in server response, closing control connection.
+Giving up.
+
+--2016-01-14 03:13:32--  http://wed/
+Resolving wed (wed)... failed: No address associated with hostname.
+wget: unable to resolve host address `wed'
+--2016-01-14 03:13:32--  http://jan/
+Resolving jan (jan)... 198.105.254.228, 198.105.244.228
+Connecting to jan (jan)|198.105.254.228|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `index.html.1'
+
+     0K                                                        4.58M=0s
+
+2016-01-14 03:13:33 (4.58 MB/s) - `index.html.1' saved [309]
+
+--2016-01-14 03:13:33--  http://13/
+Resolving 13 (13)... 0.0.0.13
+Connecting to 13 (13)|0.0.0.13|:80... failed: Invalid argument.
+--2016-01-14 03:13:33--  ftp://19/32:56
+           => `32:56'
+Resolving 19 (19)... 0.0.0.19
+Connecting to 19 (19)|0.0.0.19|:21... failed: Invalid argument.
+--2016-01-14 03:13:33--  http://on/
+Resolving on (on)... 198.105.254.228, 198.105.244.228
+Connecting to on (on)|198.105.254.228|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `index.html.2'
+
+     0K                                                        4.67M=0s
+
+2016-01-14 03:13:33 (4.67 MB/s) - `index.html.2' saved [308]
+
+--2016-01-14 03:13:33--  http://ttys002/
+Resolving ttys002 (ttys002)... 198.105.254.228, 198.105.244.228
+Connecting to ttys002 (ttys002)|198.105.254.228|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: `index.html.3'
+
+     0K                                                        4.72M=0s
+
+2016-01-14 03:13:33 (4.72 MB/s) - `index.html.3' saved [313]
+
+FINISHED --2016-01-14 03:13:33--
+Total wall clock time: 27m 31s
+Downloaded: 4 files, 1.2K in 0s (4.28 MB/s)

@@ -1,0 +1,18 @@
+html,body {
+	margin:0px;
+	padding:0px;
+	background:#231F1F;
+	font-size: 2em;;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+.switch {
+	width: 99%;
+	height: 49%;
+	padding: 20px 20px 20px 20px;
+	border-radius: 5px;
+}
