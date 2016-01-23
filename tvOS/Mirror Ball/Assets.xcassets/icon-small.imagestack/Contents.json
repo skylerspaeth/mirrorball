@@ -1,0 +1,20 @@
+{
+  "layers" : [
+    {
+      "filename" : "app-icon-front.imagestacklayer"
+    },
+    {
+      "filename" : "app-icon-bg.imagestacklayer"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "canvasSize" : {
+      "width" : 400,
+      "height" : 240
+    }
+  }
+}
